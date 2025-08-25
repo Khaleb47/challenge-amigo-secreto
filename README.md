@@ -1,4 +1,4 @@
-# challenge-amigo-secreto
+<em>Challenge del Amigo Secreto</em>
 
 <h1>Funcionalidades:</h1>
 -Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
